@@ -1,0 +1,48 @@
+---- Minecraft Crash Report ----
+// Shall we play a game?
+
+Time: 7/26/17 2:25 PM
+Description: Exception in server tick loop
+
+java.lang.UnsupportedOperationException
+	at com.sun.nio.zipfs.ZipFileSystemProvider.ensureFile(ZipFileSystemProvider.java:96)
+	at com.sun.nio.zipfs.ZipFileSystemProvider.newFileSystem(ZipFileSystemProvider.java:110)
+	at java.nio.file.FileSystems.newFileSystem(Unknown Source)
+	at java.nio.file.FileSystems.newFileSystem(Unknown Source)
+	at nq.a(SourceFile:133)
+	at nq.a(SourceFile:73)
+	at nq.<init>(SourceFile:66)
+	at om.b(SourceFile:163)
+	at chb.a(IntegratedServer.java:149)
+	at chb.j(IntegratedServer.java:196)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:434)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_141, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 129965104 bytes (123 MB) / 245366784 bytes (234 MB) up to 6291456000 bytes (6000 MB)
+	JVM Flags: 6 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx6000m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 8; []
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Very likely; Jar signature invalidated
+	OptiFine Version: OptiFine_1.12_HD_U_C3
+	Render Distance Chunks: 12
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: BSL Standard v51.zip
+	OpenGlVersion: 4.5.0 NVIDIA 382.05
+	OpenGlRenderer: GeForce 840M/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 4

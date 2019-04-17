@@ -1,0 +1,65 @@
+{
+  "last": "Default",
+  "commonpath": "C:\\Users\\Administrator\\AppData\\Roaming\\.minecraft",
+  "clientToken": "658646bc-ce89-4093-80bc-9bd8f075cee8",
+  "enableShadow": true,
+  "enableBlur": true,
+  "enableAnimation": true,
+  "decorated": false,
+  "theme": "blue",
+  "logintype": 0,
+  "downloadtype": 0,
+  "configurations": {
+    "Default": {
+      "selectedMinecraftVersion": "1.12-OptiFine_HD_U_C3",
+      "gameDir": ".minecraft",
+      "noCommon": false,
+      "global": {
+        "usesGlobal": false,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": "12000",
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "1.8.0_201",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "launcherVisibility": 1,
+        "gameDirType": 0
+      }
+    },
+    "Home": {
+      "selectedMinecraftVersion": "",
+      "gameDir": "C:\\Users\\Administrator\\AppData\\Roaming\\.minecraft",
+      "noCommon": false,
+      "global": {
+        "usesGlobal": false,
+        "minecraftArgs": "",
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "launcherVisibility": 1,
+        "gameDirType": 0
+      }
+    }
+  },
+  "auth": {
+    "yggdrasil": {
+      "IAuthenticator_UserName": ""
+    },
+    "offline": {
+      "uuidMap": {
+        "siyue": "2b151270da8fb44860cee1f58075acce"
+      },
+      "IAuthenticator_UserName": "siyue"
+    }
+  }
+}

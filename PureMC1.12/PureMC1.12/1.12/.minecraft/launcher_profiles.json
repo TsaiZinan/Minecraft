@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "locale": "zh-cn"
+  },
+  "launcherVersion": {
+    "name": "2.0.934",
+    "format": 20,
+    "profilesFormat": 2
+  },
+  "profiles": {
+    "e8edfaa033fc1cf65285efd7fe4777b5": {
+      "type": "latest-release",
+      "lastUsed": "2017-06-27T09:25:44.796Z"
+    },
+    "0ba07f011fa0c1bef642cd97cb70f8ce": {
+      "type": "latest-snapshot",
+      "lastUsed": "1970-01-01T00:00:00.000Z"
+    },
+    "OptiFine": {
+      "name": "OptiFine",
+      "lastVersionId": "1.12-OptiFine_HD_U_C3"
+    }
+  },
+  "authenticationDatabase": {
+    "25c4df925ce4ec804553c53c97bfb4be": {
+      "accessToken": "7d1fe1ec1d004defaac6d80d9111c784",
+      "username": "pengjunup@163.com",
+      "properties": [
+        {
+          "name": "preferredLanguage",
+          "value": "zh-cn"
+        }
+      ],
+      "profiles": {
+        "c869e29e4a3c4a18aa78ffc993c8c732": {
+          "displayName": "siyuexue"
+        }
+      }
+    }
+  },
+  "selectedUser": {
+    "account": "25c4df925ce4ec804553c53c97bfb4be",
+    "profile": "c869e29e4a3c4a18aa78ffc993c8c732"
+  },
+  "analyticsToken": "ced061e8d6ccf15419c9245e4c50a758",
+  "analyticsFailcount": 0,
+  "clientToken": "4c9b5c03a401b4510193fe6398753a42",
+  "selectedProfile": "OptiFine"
+}
