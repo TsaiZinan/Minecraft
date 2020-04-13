@@ -1,200 +1,199 @@
-[06:09:11] [main/INFO]: Loading tweak class name optifine.OptiFineTweaker
-[06:09:11] [main/INFO]: Using primary tweak class name optifine.OptiFineTweaker
-[06:09:11] [main/INFO]: Calling tweak class optifine.OptiFineTweaker
-[06:09:11] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[06:09:12] [main/INFO]: Setting user: siyue
-[06:09:14] [main/INFO]: [OptiFine] *** Reflector Forge ***
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.relauncher.CoreModManager
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.EventBus
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event$Result
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.ExtendedBlockState
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.FMLClientHandler
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.FMLCommonHandler
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: anf.getWaterColorMultiplier
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.addDestroyEffects
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.addHitEffects
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.canCreatureSpawn
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.canRenderInLayer
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.doesSideBlockRendering
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.getBedDirection
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.getExtendedState
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.getLightOpacity
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.getLightValue
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.getSoundType
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.hasTileEntity
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.isAir
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.isBed
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.isBedFoot
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.isSideSolid
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: anb.isSideSolid
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ve.canRiderInteract
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Field not present: ve.captureDrops
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Field not present: ve.capturedDrops
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ve.shouldRenderInPass
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ve.shouldRiderSit
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Field not present: ail.delegate
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ail.getDurabilityForDisplay
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ail.getRGBDurabilityForDisplay
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ail.onEntitySwing
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ail.shouldCauseReequipAnimation
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ail.showDurabilityBar
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: bvy.handleItemState
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: agt.hasOverlay
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ajd.getRecordResource
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: bhw.setKeyConflictContext
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: bhw.setKeyModifierAndCode
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: bhw.getKeyModifier
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeModContainer
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ux.shouldRenderHUD
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ux.renderHUDEffect
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: uy.isCurativeItem
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: avh.canRenderBreaking
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: avh.getRenderBoundingBox
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: avh.hasFastRenderer
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: avh.shouldRenderInPass
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: cdz$b.preDraw
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: cdz$b.postDraw
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ams.countEntities
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ams.getPerWorldStorage
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ams.initCapabilities
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ayk.getCloudRenderer
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ayk.getSkyRenderer
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Method not present: ayk.getWeatherRenderer
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.GuiModList
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.IExtendedBlockState
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
-[06:09:14] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
-[06:09:14] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
-[06:09:14] [main/WARN]: Skipping bad option: lastServer:
-[06:09:14] [main/INFO]: LWJGL Version: 2.9.4
-[06:09:14] [main/INFO]: [OptiFine] 
-[06:09:14] [main/INFO]: [OptiFine] OptiFine_1.12_HD_U_C3
-[06:09:14] [main/INFO]: [OptiFine] Build: 20170626-123833
-[06:09:14] [main/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
-[06:09:14] [main/INFO]: [OptiFine] Java: 1.8.0_201, Oracle Corporation
-[06:09:14] [main/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-[06:09:14] [main/INFO]: [OptiFine] LWJGL: 2.9.4
-[06:09:14] [main/INFO]: [OptiFine] OpenGL: GeForce GTX 1060 6GB/PCIe/SSE2, version 4.6.0 NVIDIA 450.12, NVIDIA Corporation
-[06:09:14] [main/INFO]: [OptiFine] OpenGL Version: 4.6.0
-[06:09:14] [main/INFO]: [OptiFine] Maximum texture size: 32768x32768
-[06:09:14] [Thread-3/INFO]: [OptiFine] Checking for new version
-[06:09:15] [main/INFO]: [Shaders] ShadersMod version: 2.4.12
-[06:09:15] [main/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 450.12
-[06:09:15] [main/INFO]: [Shaders] Vendor:  NVIDIA Corporation
-[06:09:15] [main/INFO]: [Shaders] Renderer: GeForce GTX 1060 6GB/PCIe/SSE2
-[06:09:15] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
-[06:09:15] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
-[06:09:15] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
-[06:09:15] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
-[06:09:15] [main/INFO]: [Shaders] Load ShadersMod configuration.
-[06:09:15] [main/INFO]: [Shaders] Loaded shaderpack: SEUS-Renewed-1.0.0.zip
-[06:09:15] [main/INFO]: [OptiFine] [Shaders] Worlds: -1, 1
-[06:09:15] [main/WARN]: [OptiFine] Ambiguous shader option: GENERAL_GRASS_FIX
-[06:09:15] [main/WARN]: [OptiFine]  - in gbuffers_terrain.vsh: true
-[06:09:15] [main/WARN]: [OptiFine]  - in gbuffers_damagedblock.vsh: false
-[06:09:15] [main/WARN]: [OptiFine] Ambiguous shader option: SHADOW_MAP_BIAS
-[06:09:15] [main/WARN]: [OptiFine]  - in composite.fsh: 0.90
-[06:09:15] [main/WARN]: [OptiFine]  - in composite2.fsh: 0.9
-[06:09:15] [main/WARN]: [OptiFine] Ambiguous shader option: GENERAL_GRASS_FIX
-[06:09:15] [main/WARN]: [OptiFine]  - in gbuffers_terrain.vsh, gbuffers_damagedblock.vsh, world-1/gbuffers_terrain.vsh: true
-[06:09:15] [main/WARN]: [OptiFine]  - in world-1/gbuffers_damagedblock.vsh: false
-[06:09:15] [main/WARN]: [OptiFine] Ambiguous shader option: SHADOW_MAP_BIAS
-[06:09:15] [main/WARN]: [OptiFine]  - in composite.fsh, composite2.fsh, shadow.vsh, world-1/composite.fsh: 0.90
-[06:09:15] [main/WARN]: [OptiFine]  - in world-1/composite2.fsh: 0.9
-[06:09:15] [main/WARN]: [OptiFine] Ambiguous shader option: GENERAL_GRASS_FIX
-[06:09:15] [main/WARN]: [OptiFine]  - in gbuffers_terrain.vsh, gbuffers_damagedblock.vsh, world-1/gbuffers_terrain.vsh, world-1/gbuffers_damagedblock.vsh, world1/gbuffers_terrain.vsh: true
-[06:09:15] [main/WARN]: [OptiFine]  - in world1/gbuffers_damagedblock.vsh: false
-[06:09:15] [main/WARN]: [OptiFine] Ambiguous shader option: SHADOW_MAP_BIAS
-[06:09:15] [main/WARN]: [OptiFine]  - in composite.fsh, composite2.fsh, shadow.vsh, world-1/composite.fsh, world-1/composite2.fsh, world-1/shadow.vsh, world1/composite.fsh: 0.90
-[06:09:15] [main/WARN]: [OptiFine]  - in world1/composite2.fsh: 0.9
-[06:09:15] [main/WARN]: [OptiFine] [Shaders] Option profile can not be used, no profiles defined: <profile>, key: screen
-[06:09:15] [main/WARN]: [OptiFine] [Shaders] Invalid option: ATMOSPHERIC_SCATTERING, key: screen.ATMOSPHERICS
-[06:09:15] [main/WARN]: [OptiFine] [Shaders] Invalid option: ATMOSPHERIC_HAZE, key: screen.ATMOSPHERICS
-[06:09:15] [main/WARN]: [OptiFine] [Shaders] Invalid option: CREPUSCULAR_RAYS, key: screen.ATMOSPHERICS
-[06:09:15] [main/WARN]: [OptiFine] [Shaders] Invalid option: VOLUMETRIC_CLOUDS, key: screen.ATMOSPHERICS
-[06:09:15] [main/WARN]: [OptiFine] [Shaders] Invalid option: HQ_VOLUMETRIC_CLOUDS, key: screen.ATMOSPHERICS
-[06:09:15] [main/WARN]: [OptiFine] [Shaders] Invalid option: SMOOTH_CLOUDS, key: screen.ATMOSPHERICS
-[06:09:15] [main/WARN]: [OptiFine] [Shaders] Invalid option: ENABLE_SOFT_SHADOWS, key: screen.LIGHTING
-[06:09:15] [main/WARN]: [OptiFine] [Shaders] Invalid option: PIXEL_SHADOWS, key: screen.LIGHTING
-[06:09:15] [main/WARN]: [OptiFine] [Shaders] Invalid option: TONEMAP_STRENGTH, key: screen.LIGHTING
-[06:09:15] [main/WARN]: [OptiFine] [Shaders] Invalid option: BRIGHTNESS_LEVEL, key: screen.LIGHTING
-[06:09:15] [main/WARN]: [OptiFine] [Shaders] Invalid option: WATER_CAUSTICS, key: screen.SURFACE
-[06:09:15] [Thread-3/INFO]: [OptiFine] Version found: C7
-[06:09:16] [main/INFO]: Reloading ResourceManager: Default, 1.12 oCd_V 2.4-FONT UPDATE.zip
-[06:09:16] [main/INFO]: [OptiFine] *** Reloading textures ***
-[06:09:16] [main/INFO]: [OptiFine] Resource packs: 1.12 oCd_V 2.4-FONT UPDATE.zip
-[06:09:22] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[06:09:22] [Thread-4/INFO]: Initializing LWJGL OpenAL
-[06:09:22] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[06:09:23] [Thread-4/INFO]: OpenAL initialized.
-[06:09:23] [Sound Library Loader/INFO]: Sound engine started
-[06:09:23] [main/INFO]: [OptiFine] Mipmap levels: 4
-[06:09:23] [main/INFO]: [OptiFine] Multitexture: false
-[06:09:23] [main/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_clear/glass.properties
-[06:09:23] [main/INFO]: [OptiFine] Multipass connected textures: false
-[06:09:23] [main/INFO]: [OptiFine] Multipass connected textures: false
-[06:09:23] [main/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
-[06:09:24] [main/INFO]: Created: 512x512 textures-atlas
-[06:09:24] [main/INFO]: [Shaders] allocateTextureMap 4 512 512 
-[06:09:24] [main/INFO]: Narrator library for x64 successfully loaded
-[06:09:25] [main/INFO]: [OptiFine] *** Reloading custom textures ***
-[06:09:25] [main/INFO]: [OptiFine] Natural Textures: Parsing default configuration "optifine/natural.properties"
-[06:09:25] [main/INFO]: [OptiFine] Natural Textures: Valid only for textures from default resource pack
-[06:09:27] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[06:09:29] [Server thread/INFO]: Starting integrated minecraft server version 1.12
-[06:09:29] [Server thread/INFO]: Generating keypair
-[06:09:29] [Server thread/INFO]: Loaded 488 advancements
-[06:09:29] [Server thread/INFO]: Preparing start region for level 0
-[06:09:30] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 831d6974-c121-41c2-810e-5eb1e917b5bd
-[06:09:30] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID c7b228b3-2bb8-4629-9672-aa80f85a3bfb
-[06:09:30] [Server thread/INFO]: Preparing spawn area: 54%
-[06:09:31] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID 319d840c-d1f5-4072-b774-86ed6ca46eac
-[06:09:31] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID 84041527-a17a-4d02-ba24-b6f44ffe2e74
-[06:09:31] [Server thread/INFO]: Changing view distance to 18, from 10
-[06:09:33] [Server thread/INFO]: siyue[local:E:7eb5ae6a] logged in with entity id 240 at (386.74527997061557, 177.6649956251226, 231.66750857655975)
-[06:09:33] [Server thread/INFO]: siyue加入了游戏
-[06:09:33] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID ebf003d9-3d5a-43f2-92cb-0ea2eda6c59d
-[06:09:33] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID bc5d32d3-fa69-4653-9834-4a829fb8727b
-[06:09:33] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID cca5404e-72f5-4fb4-90cc-cfba8a11ee23
-[06:09:33] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID 917571d8-0a80-4913-bdd5-28f7e14f6a13
-[06:09:33] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID fe5c6cb7-f6c0-4212-bc4d-19ec9f12bc3b
-[06:09:33] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID fe5c6cb7-f6c0-4212-bc4d-19ec9f12bc3b
-[06:09:33] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID fe5c6cb7-f6c0-4212-bc4d-19ec9f12bc3b
-[06:09:34] [main/INFO]: [CHAT] 新的§eOptiFine§f版本现已可用：§eHD Ultra C7§f
-[06:09:34] [main/INFO]: [Shaders] Program loaded: gbuffers_basic
-[06:09:34] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_textured.fsh
+[06:20:25] [main/INFO]: Using primary tweak class name optifine.OptiFineTweaker
+[06:20:25] [main/INFO]: Calling tweak class optifine.OptiFineTweaker
+[06:20:25] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[06:20:26] [main/INFO]: Setting user: siyue
+[06:20:28] [main/INFO]: [OptiFine] *** Reflector Forge ***
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.relauncher.CoreModManager
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.EventBus
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event$Result
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.ExtendedBlockState
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.FMLClientHandler
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.FMLCommonHandler
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: anf.getWaterColorMultiplier
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.addDestroyEffects
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.addHitEffects
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.canCreatureSpawn
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.canRenderInLayer
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.doesSideBlockRendering
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.getBedDirection
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.getExtendedState
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.getLightOpacity
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.getLightValue
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.getSoundType
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.hasTileEntity
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.isAir
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.isBed
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.isBedFoot
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: aou.isSideSolid
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: anb.isSideSolid
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ve.canRiderInteract
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Field not present: ve.captureDrops
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Field not present: ve.capturedDrops
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ve.shouldRenderInPass
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ve.shouldRiderSit
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Field not present: ail.delegate
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ail.getDurabilityForDisplay
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ail.getRGBDurabilityForDisplay
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ail.onEntitySwing
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ail.shouldCauseReequipAnimation
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ail.showDurabilityBar
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: bvy.handleItemState
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: agt.hasOverlay
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ajd.getRecordResource
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: bhw.setKeyConflictContext
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: bhw.setKeyModifierAndCode
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: bhw.getKeyModifier
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeModContainer
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ux.shouldRenderHUD
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ux.renderHUDEffect
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: uy.isCurativeItem
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: avh.canRenderBreaking
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: avh.getRenderBoundingBox
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: avh.hasFastRenderer
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: avh.shouldRenderInPass
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: cdz$b.preDraw
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: cdz$b.postDraw
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ams.countEntities
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ams.getPerWorldStorage
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ams.initCapabilities
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ayk.getCloudRenderer
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ayk.getSkyRenderer
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Method not present: ayk.getWeatherRenderer
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.GuiModList
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.IExtendedBlockState
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[06:20:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[06:20:28] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
+[06:20:28] [main/WARN]: Skipping bad option: lastServer:
+[06:20:28] [main/INFO]: LWJGL Version: 2.9.4
+[06:20:29] [main/INFO]: [OptiFine] 
+[06:20:29] [main/INFO]: [OptiFine] OptiFine_1.12_HD_U_C3
+[06:20:29] [main/INFO]: [OptiFine] Build: 20170626-123833
+[06:20:29] [main/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[06:20:29] [main/INFO]: [OptiFine] Java: 1.8.0_201, Oracle Corporation
+[06:20:29] [main/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[06:20:29] [main/INFO]: [OptiFine] LWJGL: 2.9.4
+[06:20:29] [main/INFO]: [OptiFine] OpenGL: GeForce GTX 1060 6GB/PCIe/SSE2, version 4.6.0 NVIDIA 450.12, NVIDIA Corporation
+[06:20:29] [main/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[06:20:29] [main/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[06:20:29] [Thread-3/INFO]: [OptiFine] Checking for new version
+[06:20:29] [main/INFO]: [Shaders] ShadersMod version: 2.4.12
+[06:20:29] [main/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 450.12
+[06:20:29] [main/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[06:20:29] [main/INFO]: [Shaders] Renderer: GeForce GTX 1060 6GB/PCIe/SSE2
+[06:20:29] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[06:20:29] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[06:20:29] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[06:20:29] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[06:20:29] [main/INFO]: [Shaders] Load ShadersMod configuration.
+[06:20:30] [main/INFO]: [Shaders] Loaded shaderpack: SEUS-Renewed-1.0.0.zip
+[06:20:30] [main/INFO]: [OptiFine] [Shaders] Worlds: -1, 1
+[06:20:30] [main/WARN]: [OptiFine] Ambiguous shader option: GENERAL_GRASS_FIX
+[06:20:30] [main/WARN]: [OptiFine]  - in gbuffers_terrain.vsh: true
+[06:20:30] [main/WARN]: [OptiFine]  - in gbuffers_damagedblock.vsh: false
+[06:20:30] [main/WARN]: [OptiFine] Ambiguous shader option: SHADOW_MAP_BIAS
+[06:20:30] [main/WARN]: [OptiFine]  - in composite.fsh: 0.90
+[06:20:30] [main/WARN]: [OptiFine]  - in composite2.fsh: 0.9
+[06:20:30] [main/WARN]: [OptiFine] Ambiguous shader option: GENERAL_GRASS_FIX
+[06:20:30] [main/WARN]: [OptiFine]  - in gbuffers_terrain.vsh, gbuffers_damagedblock.vsh, world-1/gbuffers_terrain.vsh: true
+[06:20:30] [main/WARN]: [OptiFine]  - in world-1/gbuffers_damagedblock.vsh: false
+[06:20:30] [main/WARN]: [OptiFine] Ambiguous shader option: SHADOW_MAP_BIAS
+[06:20:30] [main/WARN]: [OptiFine]  - in composite.fsh, composite2.fsh, shadow.vsh, world-1/composite.fsh: 0.90
+[06:20:30] [main/WARN]: [OptiFine]  - in world-1/composite2.fsh: 0.9
+[06:20:30] [main/WARN]: [OptiFine] Ambiguous shader option: GENERAL_GRASS_FIX
+[06:20:30] [main/WARN]: [OptiFine]  - in gbuffers_terrain.vsh, gbuffers_damagedblock.vsh, world-1/gbuffers_terrain.vsh, world-1/gbuffers_damagedblock.vsh, world1/gbuffers_terrain.vsh: true
+[06:20:30] [main/WARN]: [OptiFine]  - in world1/gbuffers_damagedblock.vsh: false
+[06:20:30] [main/WARN]: [OptiFine] Ambiguous shader option: SHADOW_MAP_BIAS
+[06:20:30] [main/WARN]: [OptiFine]  - in composite.fsh, composite2.fsh, shadow.vsh, world-1/composite.fsh, world-1/composite2.fsh, world-1/shadow.vsh, world1/composite.fsh: 0.90
+[06:20:30] [main/WARN]: [OptiFine]  - in world1/composite2.fsh: 0.9
+[06:20:30] [main/WARN]: [OptiFine] [Shaders] Option profile can not be used, no profiles defined: <profile>, key: screen
+[06:20:30] [main/WARN]: [OptiFine] [Shaders] Invalid option: ATMOSPHERIC_SCATTERING, key: screen.ATMOSPHERICS
+[06:20:30] [main/WARN]: [OptiFine] [Shaders] Invalid option: ATMOSPHERIC_HAZE, key: screen.ATMOSPHERICS
+[06:20:30] [main/WARN]: [OptiFine] [Shaders] Invalid option: CREPUSCULAR_RAYS, key: screen.ATMOSPHERICS
+[06:20:30] [main/WARN]: [OptiFine] [Shaders] Invalid option: VOLUMETRIC_CLOUDS, key: screen.ATMOSPHERICS
+[06:20:30] [main/WARN]: [OptiFine] [Shaders] Invalid option: HQ_VOLUMETRIC_CLOUDS, key: screen.ATMOSPHERICS
+[06:20:30] [main/WARN]: [OptiFine] [Shaders] Invalid option: SMOOTH_CLOUDS, key: screen.ATMOSPHERICS
+[06:20:30] [main/WARN]: [OptiFine] [Shaders] Invalid option: ENABLE_SOFT_SHADOWS, key: screen.LIGHTING
+[06:20:30] [main/WARN]: [OptiFine] [Shaders] Invalid option: PIXEL_SHADOWS, key: screen.LIGHTING
+[06:20:30] [main/WARN]: [OptiFine] [Shaders] Invalid option: TONEMAP_STRENGTH, key: screen.LIGHTING
+[06:20:30] [main/WARN]: [OptiFine] [Shaders] Invalid option: BRIGHTNESS_LEVEL, key: screen.LIGHTING
+[06:20:30] [main/WARN]: [OptiFine] [Shaders] Invalid option: WATER_CAUSTICS, key: screen.SURFACE
+[06:20:30] [Thread-3/INFO]: [OptiFine] Version found: C7
+[06:20:31] [main/INFO]: Reloading ResourceManager: Default, 1.12 oCd_V 2.4-FONT UPDATE.zip
+[06:20:31] [main/INFO]: [OptiFine] *** Reloading textures ***
+[06:20:31] [main/INFO]: [OptiFine] Resource packs: 1.12 oCd_V 2.4-FONT UPDATE.zip
+[06:20:42] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[06:20:42] [Thread-4/INFO]: Initializing LWJGL OpenAL
+[06:20:42] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[06:20:42] [Thread-4/INFO]: OpenAL initialized.
+[06:20:42] [Sound Library Loader/INFO]: Sound engine started
+[06:20:43] [main/INFO]: [OptiFine] Mipmap levels: 4
+[06:20:43] [main/INFO]: [OptiFine] Multitexture: false
+[06:20:43] [main/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass_clear/glass.properties
+[06:20:43] [main/INFO]: [OptiFine] Multipass connected textures: false
+[06:20:43] [main/INFO]: [OptiFine] Multipass connected textures: false
+[06:20:43] [main/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[06:20:43] [main/INFO]: Created: 512x512 textures-atlas
+[06:20:43] [main/INFO]: [Shaders] allocateTextureMap 4 512 512 
+[06:20:44] [main/INFO]: Narrator library for x64 successfully loaded
+[06:20:46] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[06:20:46] [main/INFO]: [OptiFine] Natural Textures: Parsing default configuration "optifine/natural.properties"
+[06:20:46] [main/INFO]: [OptiFine] Natural Textures: Valid only for textures from default resource pack
+[06:20:46] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[06:20:51] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[06:20:51] [Server thread/INFO]: Generating keypair
+[06:20:51] [Server thread/INFO]: Loaded 488 advancements
+[06:20:51] [Server thread/INFO]: Preparing start region for level 0
+[06:20:52] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 831d6974-c121-41c2-810e-5eb1e917b5bd
+[06:20:52] [Server thread/INFO]: Preparing spawn area: 35%
+[06:20:52] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID c7b228b3-2bb8-4629-9672-aa80f85a3bfb
+[06:20:53] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID 319d840c-d1f5-4072-b774-86ed6ca46eac
+[06:20:53] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID 84041527-a17a-4d02-ba24-b6f44ffe2e74
+[06:20:53] [Server thread/INFO]: Changing view distance to 18, from 10
+[06:20:56] [Server thread/INFO]: siyue[local:E:5e640b25] logged in with entity id 241 at (386.8393639805775, 186.3132205958048, 242.63814307653925)
+[06:20:56] [Server thread/INFO]: siyue加入了游戏
+[06:20:56] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID ebf003d9-3d5a-43f2-92cb-0ea2eda6c59d
+[06:20:56] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID bc5d32d3-fa69-4653-9834-4a829fb8727b
+[06:20:56] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID cca5404e-72f5-4fb4-90cc-cfba8a11ee23
+[06:20:56] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID 917571d8-0a80-4913-bdd5-28f7e14f6a13
+[06:20:56] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID fe5c6cb7-f6c0-4212-bc4d-19ec9f12bc3b
+[06:20:56] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID fe5c6cb7-f6c0-4212-bc4d-19ec9f12bc3b
+[06:20:56] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID fe5c6cb7-f6c0-4212-bc4d-19ec9f12bc3b
+[06:20:57] [main/INFO]: [CHAT] 新的§eOptiFine§f版本现已可用：§eHD Ultra C7§f
+[06:20:57] [main/INFO]: [Shaders] Program loaded: gbuffers_basic
+[06:20:57] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_textured.fsh
 R_INNER(543) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 R_INNER(544) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 R_INNER(545) : warning C7555: 'varying' is deprecated, use 'in/out' instead
@@ -211,7 +210,7 @@ R_INNER(559) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 R_INNER(561) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 R_INNER(598) : warning C7533: global variable gl_FragData is deprecated after version 120
 
-[06:09:34] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_textured.vsh, /shaders/gbuffers_textured.fsh
+[06:20:57] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_textured.vsh, /shaders/gbuffers_textured.fsh
 Vertex info
 -----------
 0(28) : warning C7050: "tangent" might be used before being initialized
@@ -236,9 +235,9 @@ R_INNER(561) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 R_INNER(598) : warning C7533: global variable gl_FragData is deprecated after version 120
 
 
-[06:09:34] [main/INFO]: [Shaders] Program loaded: gbuffers_textured
-[06:09:34] [main/INFO]: [Shaders] File: 1 = /shaders/Common.inc
-[06:09:34] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_textured_lit.fsh
+[06:20:57] [main/INFO]: [Shaders] Program loaded: gbuffers_textured
+[06:20:57] [main/INFO]: [Shaders] File: 1 = /shaders/Common.inc
+[06:20:57] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_textured_lit.fsh
 0(50) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(51) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(52) : warning C7555: 'varying' is deprecated, use 'in/out' instead
@@ -255,7 +254,7 @@ R_INNER(598) : warning C7533: global variable gl_FragData is deprecated after ve
 0(68) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(122) : warning C7533: global variable gl_FragData is deprecated after version 120
 
-[06:09:34] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_textured_lit.vsh, /shaders/gbuffers_textured_lit.fsh
+[06:20:57] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_textured_lit.vsh, /shaders/gbuffers_textured_lit.fsh
 Vertex info
 -----------
 0(28) : warning C7050: "tangent" might be used before being initialized
@@ -280,11 +279,11 @@ Fragment info
 0(122) : warning C7533: global variable gl_FragData is deprecated after version 120
 
 
-[06:09:34] [main/INFO]: [Shaders] Program loaded: gbuffers_textured_lit
-[06:09:34] [main/INFO]: [Shaders] Program loaded: gbuffers_skybasic
-[06:09:34] [main/INFO]: [Shaders] Program loaded: gbuffers_skytextured
-[06:09:34] [main/INFO]: [Shaders] File: 1 = /shaders/Common.inc
-[06:09:34] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_terrain.fsh
+[06:20:57] [main/INFO]: [Shaders] Program loaded: gbuffers_textured_lit
+[06:20:57] [main/INFO]: [Shaders] Program loaded: gbuffers_skybasic
+[06:20:57] [main/INFO]: [Shaders] Program loaded: gbuffers_skytextured
+[06:20:57] [main/INFO]: [Shaders] File: 1 = /shaders/Common.inc
+[06:20:57] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_terrain.fsh
 0(73) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(74) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(75) : warning C7555: 'varying' is deprecated, use 'in/out' instead
@@ -301,7 +300,7 @@ Fragment info
 0(90) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 PARALLAX_DEPTH(688) : warning C7533: global variable gl_FragData is deprecated after version 120
 
-[06:09:34] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_terrain.vsh, /shaders/gbuffers_terrain.fsh
+[06:20:57] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_terrain.vsh, /shaders/gbuffers_terrain.fsh
 Vertex info
 -----------
 0(34) : warning C7050: "tangent" might be used before being initialized
@@ -326,9 +325,9 @@ Fragment info
 PARALLAX_DEPTH(688) : warning C7533: global variable gl_FragData is deprecated after version 120
 
 
-[06:09:34] [main/INFO]: [Shaders] Program loaded: gbuffers_terrain
-[06:09:34] [main/INFO]: [Shaders] File: 1 = /shaders/Common.inc
-[06:09:34] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_damagedblock.fsh
+[06:20:57] [main/INFO]: [Shaders] Program loaded: gbuffers_terrain
+[06:20:57] [main/INFO]: [Shaders] File: 1 = /shaders/Common.inc
+[06:20:57] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_damagedblock.fsh
 0(50) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(51) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(52) : warning C7555: 'varying' is deprecated, use 'in/out' instead
@@ -344,7 +343,7 @@ PARALLAX_DEPTH(688) : warning C7533: global variable gl_FragData is deprecated a
 0(66) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(101) : warning C7533: global variable gl_FragData is deprecated after version 120
 
-[06:09:34] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_damagedblock.vsh, /shaders/gbuffers_damagedblock.fsh
+[06:20:57] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_damagedblock.vsh, /shaders/gbuffers_damagedblock.fsh
 Vertex info
 -----------
 0(34) : warning C7050: "tangent" might be used before being initialized
@@ -368,17 +367,17 @@ Fragment info
 0(101) : warning C7533: global variable gl_FragData is deprecated after version 120
 
 
-[06:09:34] [main/INFO]: [Shaders] Program loaded: gbuffers_damagedblock
-[06:09:34] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_water.vsh, /shaders/gbuffers_water.fsh
+[06:20:57] [main/INFO]: [Shaders] Program loaded: gbuffers_damagedblock
+[06:20:57] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_water.vsh, /shaders/gbuffers_water.fsh
 Vertex info
 -----------
 0(21) : warning C7050: "tangent" might be used before being initialized
 0(22) : warning C7050: "binormal" might be used before being initialized
 
 
-[06:09:34] [main/INFO]: [Shaders] Program loaded: gbuffers_water
-[06:09:34] [main/INFO]: [Shaders] File: 1 = /shaders/Common.inc
-[06:09:34] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_entities.fsh
+[06:20:57] [main/INFO]: [Shaders] Program loaded: gbuffers_water
+[06:20:58] [main/INFO]: [Shaders] File: 1 = /shaders/Common.inc
+[06:20:58] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_entities.fsh
 0(51) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(52) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(53) : warning C7555: 'varying' is deprecated, use 'in/out' instead
@@ -395,7 +394,7 @@ Vertex info
 0(69) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(137) : warning C7533: global variable gl_FragData is deprecated after version 120
 
-[06:09:34] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_entities.vsh, /shaders/gbuffers_entities.fsh
+[06:20:58] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_entities.vsh, /shaders/gbuffers_entities.fsh
 Vertex info
 -----------
 0(28) : warning C7050: "tangent" might be used before being initialized
@@ -420,9 +419,9 @@ Fragment info
 0(137) : warning C7533: global variable gl_FragData is deprecated after version 120
 
 
-[06:09:34] [main/INFO]: [Shaders] Program loaded: gbuffers_entities
-[06:09:34] [main/INFO]: [Shaders] File: 1 = /shaders/Common.inc
-[06:09:34] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_armor_glint.fsh
+[06:20:58] [main/INFO]: [Shaders] Program loaded: gbuffers_entities
+[06:20:58] [main/INFO]: [Shaders] File: 1 = /shaders/Common.inc
+[06:20:58] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_armor_glint.fsh
 0(50) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(51) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(52) : warning C7555: 'varying' is deprecated, use 'in/out' instead
@@ -439,7 +438,7 @@ Fragment info
 0(68) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(105) : warning C7533: global variable gl_FragData is deprecated after version 120
 
-[06:09:34] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_armor_glint.vsh, /shaders/gbuffers_armor_glint.fsh
+[06:20:58] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_armor_glint.vsh, /shaders/gbuffers_armor_glint.fsh
 Vertex info
 -----------
 0(28) : warning C7050: "tangent" might be used before being initialized
@@ -464,9 +463,9 @@ Fragment info
 0(105) : warning C7533: global variable gl_FragData is deprecated after version 120
 
 
-[06:09:34] [main/INFO]: [Shaders] Program loaded: gbuffers_armor_glint
-[06:09:34] [main/INFO]: [Shaders] File: 1 = /shaders/Common.inc
-[06:09:34] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_hand.fsh
+[06:20:58] [main/INFO]: [Shaders] Program loaded: gbuffers_armor_glint
+[06:20:58] [main/INFO]: [Shaders] File: 1 = /shaders/Common.inc
+[06:20:58] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_hand.fsh
 0(50) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(51) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(52) : warning C7555: 'varying' is deprecated, use 'in/out' instead
@@ -483,7 +482,7 @@ Fragment info
 0(68) : warning C7555: 'varying' is deprecated, use 'in/out' instead
 0(124) : warning C7533: global variable gl_FragData is deprecated after version 120
 
-[06:09:34] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_hand.vsh, /shaders/gbuffers_hand.fsh
+[06:20:58] [main/INFO]: [Shaders] Info log: /shaders/gbuffers_hand.vsh, /shaders/gbuffers_hand.fsh
 Vertex info
 -----------
 0(28) : warning C7050: "tangent" might be used before being initialized
@@ -508,85 +507,103 @@ Fragment info
 0(124) : warning C7533: global variable gl_FragData is deprecated after version 120
 
 
-[06:09:34] [main/INFO]: [Shaders] Program loaded: gbuffers_hand
-[06:09:34] [main/INFO]: [Shaders] Program loaded: gbuffers_weather
-[06:09:34] [main/INFO]: [Shaders] Shadow map distance: 120.0
-[06:09:34] [main/INFO]: [Shaders] shadowHardwareFiltering0
-[06:09:34] [main/INFO]: [Shaders] shadowtex1Mipmap
-[06:09:34] [main/INFO]: [Shaders] shadowcolor0Mipmap
-[06:09:34] [main/INFO]: [Shaders] shadowcolor1Mipmap
-[06:09:34] [main/INFO]: [Shaders] Noise texture enabled
-[06:09:34] [main/INFO]: [Shaders] Noise texture resolution: 64
-[06:09:34] [main/INFO]: [Shaders] Program loaded: composite
-[06:09:34] [main/INFO]: [Shaders] Program loaded: composite1
-[06:09:34] [main/INFO]: [Shaders] Shadow map resolution: 2048
-[06:09:34] [main/INFO]: [Shaders] Shadow map distance: 120.0
-[06:09:34] [main/INFO]: [Shaders] Shadow map interval size: 4.0f
-[06:09:34] [main/INFO]: [Shaders] shadowHardwareFiltering0
-[06:09:34] [main/INFO]: [Shaders] shadowtex1Mipmap
-[06:09:34] [main/INFO]: [Shaders] shadowcolor0Mipmap
-[06:09:34] [main/INFO]: [Shaders] shadowcolor1Mipmap
-[06:09:34] [main/INFO]: [Shaders] Shadow distance render mul: 1.0f
-[06:09:34] [main/INFO]: [Shaders] gcolor format: RGB8
-[06:09:34] [main/INFO]: [Shaders] gdepth format: RGBA8
-[06:09:34] [main/INFO]: [Shaders] gnormal format: RGB16
-[06:09:34] [main/INFO]: [Shaders] composite format: RGB8
-[06:09:34] [main/INFO]: [Shaders] gaux1 format: RGBA16
-[06:09:34] [main/INFO]: [Shaders] gaux2 format: RGBA8
-[06:09:34] [main/INFO]: [Shaders] gaux3 format: RGBA16
-[06:09:34] [main/INFO]: [Shaders] gaux4 format: RGBA16
-[06:09:34] [main/INFO]: [Shaders] Sun path rotation: -40.0f
-[06:09:34] [main/INFO]: [Shaders] Noise texture enabled
-[06:09:34] [main/INFO]: [Shaders] Noise texture resolution: 64
-[06:09:34] [main/INFO]: [Shaders] AO Level: 0.06f
-[06:09:34] [main/INFO]: [Shaders] gaux3 mipmap enabled
-[06:09:34] [main/INFO]: [Shaders] gaux4 clear disabled
-[06:09:34] [main/INFO]: [Shaders] Wetness halflife: 1.0
-[06:09:34] [main/INFO]: [Shaders] Dryness halflife: 60.0
-[06:09:35] [main/INFO]: [Shaders] Program loaded: composite2
-[06:09:35] [main/INFO]: [Shaders] Noise texture enabled
-[06:09:35] [main/INFO]: [Shaders] Noise texture resolution: 64
-[06:09:35] [main/INFO]: [Shaders] gaux3 mipmap enabled
-[06:09:35] [main/INFO]: [Shaders] Program loaded: composite3
-[06:09:35] [main/INFO]: [Shaders] gaux3 mipmap enabled
-[06:09:35] [main/INFO]: [Shaders] Program loaded: composite4
-[06:09:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2207ms behind, skipping 44 tick(s)
-[06:09:35] [Server thread/INFO]: Saving and pausing game...
-[06:09:35] [main/INFO]: [Shaders] Program loaded: composite5
-[06:09:35] [Server thread/INFO]: Saving chunks for level '1'/overworld
-[06:09:35] [main/INFO]: [Shaders] Program loaded: composite6
-[06:09:35] [main/INFO]: [Shaders] Program loaded: final
-[06:09:35] [main/INFO]: [Shaders] Program loaded: shadow
-[06:09:35] [main/INFO]: [Shaders] usedColorBuffers: 8
-[06:09:35] [main/INFO]: [Shaders] usedDepthBuffers: 2
-[06:09:35] [main/INFO]: [Shaders] usedShadowColorBuffers: 2
-[06:09:35] [main/INFO]: [Shaders] usedShadowDepthBuffers: 2
-[06:09:35] [main/INFO]: [Shaders] usedColorAttachs: 8
-[06:09:35] [main/INFO]: [Shaders] usedDrawBuffers: 8
-[06:09:35] [main/INFO]: [Shaders] Framebuffer created.
-[06:09:35] [main/INFO]: [Shaders] Shadow framebuffer created.
-[06:09:35] [main/INFO]: [Shaders] Reset world renderers
-[06:09:35] [Server thread/INFO]: Saving chunks for level '1'/the_nether
-[06:09:35] [Server thread/INFO]: Saving chunks for level '1'/the_end
-[06:09:36] [main/INFO]: [Shaders] Reset model renderers
-[06:09:36] [main/INFO]: Loaded 230 advancements
-[06:22:04] [Server thread/INFO]: Saving and pausing game...
-[06:22:04] [Server thread/INFO]: Saving chunks for level '1'/overworld
-[06:22:05] [Server thread/INFO]: Saving chunks for level '1'/the_nether
-[06:22:05] [Server thread/INFO]: Saving chunks for level '1'/the_end
-[07:16:26] [Server thread/INFO]: Saving and pausing game...
-[07:16:26] [Server thread/INFO]: Saving chunks for level '1'/overworld
-[07:16:27] [Server thread/INFO]: Saving chunks for level '1'/the_nether
-[07:16:27] [Server thread/INFO]: Saving chunks for level '1'/the_end
-[07:16:28] [Server thread/INFO]: Stopping server
-[07:16:28] [Server thread/INFO]: Saving players
-[07:16:28] [Server thread/INFO]: siyue lost connection: 连接中止
-[07:16:28] [Server thread/INFO]: siyue退出了游戏
-[07:16:28] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[07:16:28] [Server thread/INFO]: Saving worlds
-[07:16:28] [Server thread/INFO]: Saving chunks for level '1'/overworld
-[07:16:28] [Server thread/INFO]: Saving chunks for level '1'/the_nether
-[07:16:28] [Server thread/INFO]: Saving chunks for level '1'/the_end
-[07:16:31] [main/INFO]: Stopping!
-[07:16:31] [main/INFO]: SoundSystem shutting down...
-[07:16:31] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[06:20:58] [main/INFO]: [Shaders] Program loaded: gbuffers_hand
+[06:20:58] [main/INFO]: [Shaders] Program loaded: gbuffers_weather
+[06:20:58] [main/INFO]: [Shaders] Shadow map distance: 120.0
+[06:20:58] [main/INFO]: [Shaders] shadowHardwareFiltering0
+[06:20:58] [main/INFO]: [Shaders] shadowtex1Mipmap
+[06:20:58] [main/INFO]: [Shaders] shadowcolor0Mipmap
+[06:20:58] [main/INFO]: [Shaders] shadowcolor1Mipmap
+[06:20:58] [main/INFO]: [Shaders] Noise texture enabled
+[06:20:58] [main/INFO]: [Shaders] Noise texture resolution: 64
+[06:20:58] [main/INFO]: [Shaders] Program loaded: composite
+[06:20:58] [main/INFO]: [Shaders] Program loaded: composite1
+[06:20:58] [main/INFO]: [Shaders] Shadow map resolution: 2048
+[06:20:58] [main/INFO]: [Shaders] Shadow map distance: 120.0
+[06:20:58] [main/INFO]: [Shaders] Shadow map interval size: 4.0f
+[06:20:58] [main/INFO]: [Shaders] shadowHardwareFiltering0
+[06:20:58] [main/INFO]: [Shaders] shadowtex1Mipmap
+[06:20:58] [main/INFO]: [Shaders] shadowcolor0Mipmap
+[06:20:58] [main/INFO]: [Shaders] shadowcolor1Mipmap
+[06:20:58] [main/INFO]: [Shaders] Shadow distance render mul: 1.0f
+[06:20:58] [main/INFO]: [Shaders] gcolor format: RGB8
+[06:20:58] [main/INFO]: [Shaders] gdepth format: RGBA8
+[06:20:58] [main/INFO]: [Shaders] gnormal format: RGB16
+[06:20:58] [main/INFO]: [Shaders] composite format: RGB8
+[06:20:58] [main/INFO]: [Shaders] gaux1 format: RGBA16
+[06:20:58] [main/INFO]: [Shaders] gaux2 format: RGBA8
+[06:20:58] [main/INFO]: [Shaders] gaux3 format: RGBA16
+[06:20:58] [main/INFO]: [Shaders] gaux4 format: RGBA16
+[06:20:58] [main/INFO]: [Shaders] Sun path rotation: -40.0f
+[06:20:58] [main/INFO]: [Shaders] Noise texture enabled
+[06:20:58] [main/INFO]: [Shaders] Noise texture resolution: 64
+[06:20:58] [main/INFO]: [Shaders] AO Level: 0.06f
+[06:20:58] [main/INFO]: [Shaders] gaux3 mipmap enabled
+[06:20:58] [main/INFO]: [Shaders] gaux4 clear disabled
+[06:20:58] [main/INFO]: [Shaders] Wetness halflife: 1.0
+[06:20:58] [main/INFO]: [Shaders] Dryness halflife: 60.0
+[06:20:58] [main/INFO]: [Shaders] Program loaded: composite2
+[06:20:58] [main/INFO]: [Shaders] Noise texture enabled
+[06:20:58] [main/INFO]: [Shaders] Noise texture resolution: 64
+[06:20:58] [main/INFO]: [Shaders] gaux3 mipmap enabled
+[06:20:58] [main/INFO]: [Shaders] Program loaded: composite3
+[06:20:58] [main/INFO]: [Shaders] gaux3 mipmap enabled
+[06:20:58] [main/INFO]: [Shaders] Program loaded: composite4
+[06:20:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2763ms behind, skipping 55 tick(s)
+[06:20:58] [Server thread/INFO]: Saving and pausing game...
+[06:20:59] [Server thread/INFO]: Saving chunks for level '1'/overworld
+[06:20:59] [main/INFO]: [Shaders] Program loaded: composite5
+[06:20:59] [main/INFO]: [Shaders] Program loaded: composite6
+[06:20:59] [main/INFO]: [Shaders] Program loaded: final
+[06:20:59] [main/INFO]: [Shaders] Program loaded: shadow
+[06:20:59] [Server thread/INFO]: Saving chunks for level '1'/the_nether
+[06:20:59] [Server thread/INFO]: Saving chunks for level '1'/the_end
+[06:20:59] [main/INFO]: [Shaders] usedColorBuffers: 8
+[06:20:59] [main/INFO]: [Shaders] usedDepthBuffers: 2
+[06:20:59] [main/INFO]: [Shaders] usedShadowColorBuffers: 2
+[06:20:59] [main/INFO]: [Shaders] usedShadowDepthBuffers: 2
+[06:20:59] [main/INFO]: [Shaders] usedColorAttachs: 8
+[06:20:59] [main/INFO]: [Shaders] usedDrawBuffers: 8
+[06:20:59] [main/INFO]: [Shaders] Framebuffer created.
+[06:20:59] [main/INFO]: [Shaders] Shadow framebuffer created.
+[06:20:59] [main/INFO]: [Shaders] Reset world renderers
+[06:21:00] [main/INFO]: [Shaders] Reset model renderers
+[06:21:00] [main/INFO]: Loaded 230 advancements
+[06:46:42] [Server thread/INFO]: Saving and pausing game...
+[06:46:42] [Server thread/INFO]: Saving chunks for level '1'/overworld
+[06:46:42] [Server thread/INFO]: Saving chunks for level '1'/the_nether
+[06:46:42] [Server thread/INFO]: Saving chunks for level '1'/the_end
+[08:02:38] [Server thread/INFO]: Saving and pausing game...
+[08:02:38] [Server thread/INFO]: Saving chunks for level '1'/overworld
+[08:02:38] [Server thread/INFO]: Saving chunks for level '1'/the_nether
+[08:02:38] [Server thread/INFO]: Saving chunks for level '1'/the_end
+[08:21:58] [Server thread/INFO]: Saving and pausing game...
+[08:21:58] [Server thread/INFO]: Saving chunks for level '1'/overworld
+[08:21:58] [Server thread/INFO]: Saving chunks for level '1'/the_nether
+[08:21:58] [Server thread/INFO]: Saving chunks for level '1'/the_end
+[08:21:59] [Server thread/INFO]: Stopping server
+[08:21:59] [Server thread/INFO]: Saving players
+[08:21:59] [Server thread/INFO]: siyue lost connection: 连接中止
+[08:21:59] [Server thread/INFO]: siyue退出了游戏
+[08:21:59] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[08:21:59] [Server thread/INFO]: Saving worlds
+[08:21:59] [Server thread/INFO]: Saving chunks for level '1'/overworld
+[08:21:59] [Server thread/INFO]: Saving chunks for level '1'/the_nether
+[08:21:59] [Server thread/INFO]: Saving chunks for level '1'/the_end
+[08:22:00] [File IO Thread/INFO]: [STDERR]: java.io.IOException: Stream Closed
+[08:22:00] [File IO Thread/INFO]: [STDERR]: 	at java.io.RandomAccessFile.seek0(Native Method)
+[08:22:00] [File IO Thread/INFO]: [STDERR]: 	at java.io.RandomAccessFile.seek(Unknown Source)
+[08:22:00] [File IO Thread/INFO]: [STDERR]: 	at ayh.a(SourceFile:323)
+[08:22:00] [File IO Thread/INFO]: [STDERR]: 	at ayh.a(SourceFile:263)
+[08:22:00] [File IO Thread/INFO]: [STDERR]: 	at ayh$a.close(SourceFile:244)
+[08:22:00] [File IO Thread/INFO]: [STDERR]: 	at java.util.zip.DeflaterOutputStream.close(Unknown Source)
+[08:22:00] [File IO Thread/INFO]: [STDERR]: 	at java.io.FilterOutputStream.close(Unknown Source)
+[08:22:00] [File IO Thread/INFO]: [STDERR]: 	at java.io.FilterOutputStream.close(Unknown Source)
+[08:22:00] [File IO Thread/INFO]: [STDERR]: 	at ayc.b(SourceFile:160)
+[08:22:00] [File IO Thread/INFO]: [STDERR]: 	at ayc.a(SourceFile:145)
+[08:22:00] [File IO Thread/INFO]: [STDERR]: 	at bgv.c(SourceFile:37)
+[08:22:00] [File IO Thread/INFO]: [STDERR]: 	at bgv.run(SourceFile:30)
+[08:22:00] [File IO Thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Unknown Source)
+[08:22:01] [main/INFO]: Stopping!
+[08:22:01] [main/INFO]: SoundSystem shutting down...
+[08:22:01] [main/WARN]: Author: Paul Lamb, www.paulscode.com
