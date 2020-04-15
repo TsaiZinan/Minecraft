@@ -998,6 +998,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "deep_ocean": "2020-04-16 06:59:41 +1000",
       "beaches": "2019-04-15 00:25:00 +1000",
       "extreme_hills_with_trees": "2017-07-15 01:48:06 +1000",
       "forest_hills": "2017-09-24 02:39:03 +1000",
